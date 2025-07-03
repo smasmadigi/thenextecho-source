@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+venv/
+.env*
+db/
+*.db
+*.db-journal
+
+# Node
+node_modules/
+dist/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Fichiers générés par l'application
+*.mp3
+*.mp4
+/images_temp/
+/videos/
+*.log
+backend/token.json
