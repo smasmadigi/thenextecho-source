@@ -4,7 +4,8 @@ python-dotenv
 sqlalchemy
 aiosqlite
 alembic
-celery[redis]
+celery
+redis
 gevent
 websockets
 requests
