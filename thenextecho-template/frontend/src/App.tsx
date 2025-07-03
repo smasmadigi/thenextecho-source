@@ -2,10 +2,10 @@ import { Button } from "@/components/ui/button";
 
 function App() {
   return (
-    <div className="dark container mx-auto p-4">
+    <div className="dark container mx-auto p-4 font-sans">
       <header className="text-center my-12">
         <h1 className="text-5xl font-extrabold tracking-tight">TheNextEcho</h1>
-        <p className="text-muted-foreground mt-2">Titan Edition - Your AI Video Suite</p>
+        <p className="text-muted-foreground mt-2">Titan Edition - Your Interactive AI Video Suite</p>
       </header>
 
       <main className="max-w-2xl mx-auto">
